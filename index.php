@@ -1,5 +1,8 @@
 <?php
 
-echo 'Passagens';
+echo 'Passagens<br>';
+
+echo 'Validador';
+
 
 ?>
